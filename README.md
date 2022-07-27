@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/cd/83/e3/cd83e34992570d14493c163c3ff3d42d.gif)](https://omletteinme.io)
 <h1 align="center">Hi 👋, I'm Omletteinme</h1>
 <h3 align="center">I work mostly in game development and discord.js ...</h3>
-<img align="right" alt="Coding" width="100" src="https://i.pinimg.com/originals/8c/6d/c7/8c6dc7fd84c4bcc7a22c4586fa5f664b.gif">
+<img align="right" alt="Coding" width="150" src="https://i.pinimg.com/originals/8c/6d/c7/8c6dc7fd84c4bcc7a22c4586fa5f664b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omletteinme&label=Profile%20views&color=0e75b6&style=flat" alt="omletteinme" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omletteinme" alt="omletteinme" /></a> </p>
